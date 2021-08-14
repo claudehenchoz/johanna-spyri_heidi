@@ -78,7 +78,7 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Claude Henchoz</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Henchoz, Claude</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://github.com/claudehenchoz</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://claudehenchoz.github.io/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
